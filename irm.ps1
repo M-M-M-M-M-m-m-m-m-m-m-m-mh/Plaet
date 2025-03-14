@@ -1,3 +1,3 @@
-Write-Host "No cookies for you." -ForegroundColor Red
+Write-Host "Run malicious code or don't, we don't care anyways." -ForegroundColor Red
 Start-Sleep -Seconds 0.5
-Start-Process cmd -ArgumentList "/k start https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+Start-Process cmd -ArgumentList "/k curl ascii.live/as"
