@@ -3,15 +3,15 @@ Start-Sleep -Seconds 2
 Start-Process cmd -ArgumentList "/k curl ascii.live/bomb"
 Start-Sleep -Seconds 2
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
-Start-Sleep -Seconds 0.7
+Start-Sleep -Seconds 1
 Start-Process cmd -ArgumentList "/k curl ascii.live/rick"
