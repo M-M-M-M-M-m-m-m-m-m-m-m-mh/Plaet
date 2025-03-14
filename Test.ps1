@@ -1,3 +1,3 @@
 Write-Host "Loading implimented script" -ForegroundColor Red
-Start-Sleep 2
+Start-Sleep -Seconds 0.5
 curl parrot.live
